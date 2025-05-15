@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @tryadav1176
 
 🎯 Passionate about building intelligent systems, full-stack applications, and blending AI/ML with real-world solutions.
+![commandline challenge GIF by Product Hunt](https://github.com/user-attachments/assets/386beeb8-14c0-4546-a755-640badb84112)
 
 
 - 👀 I’m interested in:
