@@ -4,9 +4,6 @@
 
 ![commandline challenge GIF by Product Hunt](https://github.com/user-attachments/assets/386beeb8-14c0-4546-a755-640badb84112)
 
-Jack of All Trades
-
-  
 - 👀 I’m interested in:
   - Full-Stack Development (React, Flask, Node.js)
   - AI/ML (NLP, Computer Vision, LLMs)
