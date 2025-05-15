@@ -2,7 +2,6 @@
 
 🎯 Passionate about building intelligent systems, full-stack applications, and blending AI/ML with real-world solutions.
 
-https://media.giphy.com/media/26gssNZ4EF6c8Simk/giphy.gif?cid=ecf05e478u1eb4qc17sjj7l4xjmu2mxkm5d5x58sni0p0b5s&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 - 👀 I’m interested in:
   - Full-Stack Development (React, Flask, Node.js)
