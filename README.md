@@ -19,7 +19,9 @@
   - AI-integrated full-stack projects
   - Open-source tools that defend or attack LLMs 
   - Cool dashboards using Power BI or Chart.js
-
+- Projects I have worked on:
+  - [Wayfare](https://wayfare-travel-scheduler.vercel.app/) - Interactive Travel Itinerary Board
+  - Wayfare gives you a drag-and-drop itinerary board to organize, reschedule, and visualize your trips with ease—perfect for solo wanderers and travel planners alike.
 - 📫 How to reach me:
   - 📧 Email: tryadav0812@gmail.com 
   - 💼 [LinkedIn](https://www.linkedin.com/in/tejasyadav1512) 
