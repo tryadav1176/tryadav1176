@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tryadav1176
+# 👋 Hi, I'm Tejas Yadav, @tryadav1176
 
 🎯 Passionate about building intelligent systems, full-stack applications, and blending AI/ML with real-world solutions.
 
