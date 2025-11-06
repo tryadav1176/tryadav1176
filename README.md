@@ -3,7 +3,7 @@
 <div align="center" style="background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%); padding: 40px 0; border-radius: 20px; box-shadow: 0 0 20px rgba(108,99,255,0.4);">
 
   <!-- Typing Animation -->
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=100%&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
 
   <!-- Social & Contact Badges -->
   <div>
