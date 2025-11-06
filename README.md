@@ -1,11 +1,10 @@
 <!-- GitHub Profile README for Tejas Yadav -->
 
-<div align="center">
 
+<div align="center">
   
   <!-- Typing Animation -->
-  <img width="480" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=480&lines=+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
-
+  <img width="480" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=100%&height=100%&lines=+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
 
   <!-- Social & Contact Badges -->
   <div>
