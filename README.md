@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Tejas Yadav -->
-
+```
 <div align="center" style="background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%); padding: 40px 0; border-radius: 20px; box-shadow: 0 0 20px rgba(108,99,255,0.4);">
 
   <!-- Typing Animation -->
@@ -11,6 +11,35 @@
       <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
     </a>
   </div>
+
+</div>
+```
+<div align="center">
+
+  <!-- Neon Gradient Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2e5bff,50:6c63ff,100:00f2fe&height=100&section=header&text=Tejas%20Yadav&fontSize=40&fontColor=f0f0f0&fontAlignY=55"/>
+
+  <!-- Typing Animation -->
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+
+  <!-- Gradient Divider (SVG-based, works on GitHub) -->
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=✨%20Connect%20With%20Me%20✨&width=800&height=70" alt="Gradient Divider"/>
+
+  <!-- Social Links -->
+  <div>
+    <a href="https://tryadav1176.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/tejasyadav1512" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-6c63ff?style=for-the-badge&logo=linkedin&logoColor=f0f0f0" alt="LinkedIn" />
+    </a>
+    <a href="mailto:tryadav0812@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=121212" alt="Email" />
+    </a>
+  </div>
+
+  <!-- Decorative Animation (Works via SVG GIF) -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Rainbow Divider"/>
 
 </div>
 
