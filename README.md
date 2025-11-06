@@ -1,4 +1,28 @@
 <!-- GitHub Profile README for Tejas Yadav -->
+<div align="center">
+  <!-- Animated Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+
+  <!-- Typing Animation -->
+  <img width="450" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=30&duration=3000&color=800080&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Tejas+Yadav+👋;Full+Stack+%26+AI+Developer+💻;Let's+Build+Something+Amazing!+🚀"/>
+
+  <!-- Social Links -->
+  <div>
+    <a href="mailto:tryadav0812@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/tejasyadav1512" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/tryadav1176" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-800080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://tryadav1176.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
+</div>
+
 
 <h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
 
