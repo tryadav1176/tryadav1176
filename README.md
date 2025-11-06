@@ -1,10 +1,7 @@
 <!-- GitHub Profile README for Tejas Yadav -->
 <div align="center">
-  <!-- Gradient Header Banner -->
-  <script width="100%" src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-
   <!-- Typing Animation -->
-  <img width="480" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=480&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+  <img width="480" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=480&lines=+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
 
   <!-- Social & Contact Badges -->
   <div>
@@ -15,10 +12,8 @@
       <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
     </a>
   </div>
-
-  <!-- Optional Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app" >
-
+  
+</div>
 
 <h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
 
