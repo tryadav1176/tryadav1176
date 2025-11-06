@@ -2,30 +2,41 @@
 
 
 <div align="center">
-  
+
+  <!-- Gradient Animated Banner -->
+  <img src="https://img.shields.io/static/v1?label=&message=🚀%20Welcome%20to%20My%20GitHub%20Profile!&color=2e5bff&labelColor=121212&style=for-the-badge&logo=github&logoColor=f0f0f0"/>
+
   <!-- Typing Animation -->
-  <img width="480" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=100%&height=100%&lines=+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Tejas+Yadav+👋;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+
+  <!-- Animated Gradient Divider -->
+  <img src="https://github.com/user-attachments/assets/8c2b54ab-3f5d-4fa0-8d3e-bd0f6a912c42" width="80%" alt="divider"/>
 
   <!-- Social & Contact Badges -->
-  <div>
+  <div style="margin-top: 15px;">
     <a href="https://www.linkedin.com/in/tejasyadav1512" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-6c63ff?style=for-the-badge&logo=linkedin&logoColor=f0f0f0" alt="LinkedIn" />
     </a>
     <a href="https://tryadav1176.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
     </a>
+    <a href="mailto:tryadav0812@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=121212" alt="Email" />
+    </a>
   </div>
-  
+
+  <!-- Motion-like Gradient Glow -->
+  <img src="https://github.com/user-attachments/assets/cc3947f0-6b87-40c4-bd7e-2c3b86b82ec3" width="100%" alt="animated-glow"/>
+
 </div>
 
 
-
----
-
-### 🧠 About Me  
 <h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
 
 <h3 align="center">🚀 Full-Stack & AI Developer | Cloud Enthusiast | Innovator</h3>
+
+---
+### 🧠 About Me  
 
 🎯 Passionate about building **intelligent systems**, **full-stack applications**, and blending **AI/ML** with **real-world solutions**.
 
