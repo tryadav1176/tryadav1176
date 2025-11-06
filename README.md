@@ -4,39 +4,19 @@
   <!-- Typing Animation -->
   <img width="500" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=26&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
 
-  <!-- Glowing Divider -->
-  <hr style="width:60%;border:1px solid transparent;background:linear-gradient(90deg,#2e5bff,#6c63ff,#00f2fe);border-radius:10px;margin:20px 0;"/>
-
   <!-- Social & Contact Badges -->
   <div>
     <a href="https://www.linkedin.com/in/tejasyadav1512" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-6c63ff?style=for-the-badge&logo=linkedin&logoColor=f0f0f0" alt="LinkedIn" />
     </a>
+    >
     <a href="https://tryadav1176.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
     </a>
-    <a href="mailto:tryadav0812@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=121212" alt="Email" />
-    </a>
+    
   </div>
 
-  <!-- Floating Icons Animation -->
-  <img src="https://github.com/user-attachments/assets/1e71fa92-3f9e-47d8-8219-7d3c35c6d0f4" width="120" alt="AI Icon" style="margin-top:30px;animation:float 4s ease-in-out infinite;">
-
 </div>
-
-<!-- Floating Animation -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
-<h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
-
-<h3 align="center">🚀 Full-Stack & AI Developer | Cloud Enthusiast | Innovator</h3>
 
 ---
 ### 🧠 About Me  
