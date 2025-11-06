@@ -1,7 +1,11 @@
 <!-- GitHub Profile README for Tejas Yadav -->
+
 <div align="center">
+
+  
   <!-- Typing Animation -->
   <img width="480" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=480&lines=+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+
 
   <!-- Social & Contact Badges -->
   <div>
@@ -15,13 +19,15 @@
   
 </div>
 
-<h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
 
-<h3 align="center">🚀 Full-Stack & AI Developer | Cloud Enthusiast | Innovator</h3>
 
 ---
 
 ### 🧠 About Me  
+<h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
+
+<h3 align="center">🚀 Full-Stack & AI Developer | Cloud Enthusiast | Innovator</h3>
+
 🎯 Passionate about building **intelligent systems**, **full-stack applications**, and blending **AI/ML** with **real-world solutions**.
 
 💡 “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
