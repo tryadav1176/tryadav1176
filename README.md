@@ -2,7 +2,7 @@
 <div align="center">
 
  <!-- Dark Gradient Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2e2e2e&height=100&section=header&text=Tejas%20Yadav&fontSize=38&fontColor=00f2fe&fontAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:1a1a1a,100:2e2e2e&height=100&section=header&text=Tejas%20Yadav&fontSize=38&fontColor=00f2fe&fontAlignY=55"/>
 
   <!-- Typing Animation -->
   <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
@@ -16,9 +16,6 @@
       <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
     </a>
   </div>
-
-  <!-- Decorative Animation (Works via SVG GIF) -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated Rainbow Divider"/>
 
 </div>
 
