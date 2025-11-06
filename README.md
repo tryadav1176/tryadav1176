@@ -1,19 +1,14 @@
 <!-- GitHub Profile README for Tejas Yadav -->
-
-
-<div align="center">
-
-  <!-- Gradient Animated Banner -->
-  <img src="https://img.shields.io/static/v1?label=&message=🚀%20Welcome%20to%20My%20GitHub%20Profile!&color=2e5bff&labelColor=121212&style=for-the-badge&logo=github&logoColor=f0f0f0"/>
+<div align="center" style="background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%); padding: 40px 0; border-radius: 20px; box-shadow: 0 0 20px rgba(108,99,255,0.4);">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Tejas+Yadav+👋;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=26&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
 
-  <!-- Animated Gradient Divider -->
-  <img src="https://github.com/user-attachments/assets/8c2b54ab-3f5d-4fa0-8d3e-bd0f6a912c42" width="80%" alt="divider"/>
+  <!-- Glowing Divider -->
+  <hr style="width:60%;border:1px solid transparent;background:linear-gradient(90deg,#2e5bff,#6c63ff,#00f2fe);border-radius:10px;margin:20px 0;"/>
 
   <!-- Social & Contact Badges -->
-  <div style="margin-top: 15px;">
+  <div>
     <a href="https://www.linkedin.com/in/tejasyadav1512" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-6c63ff?style=for-the-badge&logo=linkedin&logoColor=f0f0f0" alt="LinkedIn" />
     </a>
@@ -25,11 +20,19 @@
     </a>
   </div>
 
-  <!-- Motion-like Gradient Glow -->
-  <img src="https://github.com/user-attachments/assets/cc3947f0-6b87-40c4-bd7e-2c3b86b82ec3" width="100%" alt="animated-glow"/>
+  <!-- Floating Icons Animation -->
+  <img src="https://github.com/user-attachments/assets/1e71fa92-3f9e-47d8-8219-7d3c35c6d0f4" width="120" alt="AI Icon" style="margin-top:30px;animation:float 4s ease-in-out infinite;">
 
 </div>
 
+<!-- Floating Animation -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
 
 <h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
 
