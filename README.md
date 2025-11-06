@@ -1,54 +1,80 @@
-# 👋 Hi, I'm Tejas Yadav, @tryadav1176
+<!-- GitHub Profile README for Tejas Yadav -->
 
-🎯 Passionate about building intelligent systems, full-stack applications, and blending AI/ML with real-world solutions.
+<h1 align="center">👋 Hi, I'm Tejas Yadav (@tryadav1176)</h1>
 
-![commandline challenge GIF by Product Hunt](https://github.com/user-attachments/assets/386beeb8-14c0-4546-a755-640badb84112)
-
-- 👀 I’m interested in:
-  - Full-Stack Development (React, Flask, Node.js)
-  - AI/ML (NLP, Computer Vision, LLMs)
-  - Cloud Computing (AWS, Lambda, API Gateway, DynamoDB)
-  - Data Science, Dashboards, and Visualizations
-
-- 🌱 I’m currently learning:
-  - Building secure and practical LLM-based apps
-  - Advanced DevOps & deployment workflows
-  - Working on a web project 
-
-- 💞️ I’m looking to collaborate on:
-  - AI-integrated full-stack projects
-  - Open-source tools that defend or attack LLMs 
-  - Cool dashboards using Power BI or Chart.js
-- Projects I have worked on:
-  - [Wayfare](https://wayfare-travel-scheduler.vercel.app/) - Interactive Travel Itinerary Board
-  - Wayfare gives you a drag-and-drop itinerary board to organize, reschedule, and visualize your trips with ease—perfect for solo wanderers and travel planners alike.
-- 📫 How to reach me:
-  - 📧 Email: tryadav0812@gmail.com 
-  - 💼 [LinkedIn](https://www.linkedin.com/in/tejasyadav1512) 
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I once built a Blessing Wall app to store wedding blessings using AWS — yes, it's serverless and scalable!
+<h3 align="center">🚀 Full-Stack & AI Developer | Cloud Enthusiast | Innovator</h3>
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+### 🧠 About Me  
+🎯 Passionate about building **intelligent systems**, **full-stack applications**, and blending **AI/ML** with **real-world solutions**.
 
-Thanks for stopping by! Let’s build something amazing. 🚀
+💡 “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
+---
 
+### 👀 I’m Interested In:
+- 💻 **Full-Stack Development** – React, Flask, Node.js  
+- 🤖 **AI/ML** – NLP, Computer Vision, LLMs  
+- ☁️ **Cloud Computing** – AWS Lambda, API Gateway, DynamoDB  
+- 📊 **Data Science & Dashboards** – Power BI, Chart.js, Data Visualizations  
 
-<!--
-**tryadav1176/tryadav1176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- 🔒 Building **secure and practical LLM-based apps**  
+- ⚙️ Advanced **DevOps and deployment workflows**  
+- 🌐 Scaling **real-world web projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💞️ Looking to Collaborate On:
+- 🤝 **AI-integrated full-stack projects**  
+- 🧩 **Open-source tools** for LLM security (defense & attack)  
+- 📈 **Interactive dashboards** using Power BI, Chart.js, or D3.js  
+
+---
+
+### 🧩 Featured Projects
+🎒 **[Wayfare](https://wayfare-travel-scheduler.vercel.app/)** – Interactive Travel Itinerary Board  
+> Plan, organize, and visualize your trips effortlessly with a drag-and-drop interface — perfect for solo travelers and planners.
+
+💍 **Blessing Wall (AWS Serverless App)**  
+> A wedding blessings web app powered by **AWS Lambda, API Gateway, and DynamoDB** — scalable, secure, and approval-based.
+
+---
+
+### 📫 Connect With Me  
+<p align="left">
+  <a href="mailto:tryadav0812@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tejasyadav1512"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tryadav1176"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+I once built a **Blessing Wall** app to store wedding wishes using **AWS** — fully **serverless and scalable**! 🎉  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tryadav1176&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tryadav1176&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tryadav1176&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 😄 Pronouns
+He/Him  
+
+---
+
+### 🧩 Let's Build Something Amazing Together 🚀
+
