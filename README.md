@@ -2,13 +2,10 @@
 <div align="center">
 
  <!-- Dark Gradient Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:1a1a1a,100:2e2e2e&height=100&section=header&text=Tejas%20Yadav&fontSize=38&fontColor=00f2fe&fontAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5a189a,100:9d4edd&height=100&section=header&text=Tejas%20Yadav&fontSize=38&fontColor=00f2fe&fontAlignY=55"/>
 
   <!-- Typing Animation -->
   <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
-
-  <!-- Gradient Divider (SVG-based, works on GitHub) -->
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=✨%20Connect%20With%20Me%20✨&width=800&height=70" alt="Gradient Divider"/>
 
   <!-- Social Links -->
   <div>
