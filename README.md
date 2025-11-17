@@ -9,7 +9,7 @@
 
   <!-- Social Links -->
   <div>
-    <a href="https://tryadav1176.vercel.app/" target="_blank">
+    <a href="https://tejasyadav1176-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-2e5bff?style=for-the-badge&logo=vercel&logoColor=f0f0f0" alt="Portfolio" />
     </a>
   </div>
