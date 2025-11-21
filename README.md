@@ -1,11 +1,14 @@
 <!-- GitHub Profile README for Tejas Yadav -->
 <div align="center">
 
- <!-- Dark Gradient Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5a189a,100:9d4edd&height=100&section=header&text=Tejas%20Yadav&fontSize=38&fontColor=00f2fe&fontAlignY=55"/>
+ <!-- Minimal Gradient Header -->
+<img width="100%" 
+     src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:3a86ff&height=100&section=header&text=Tejas%20Yadav&fontSize=36&fontColor=72efdd&fontAlignY=55"/>
 
-  <!-- Typing Animation -->
-  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=800&color=00F2FE&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+%26+AI+Developer+💻;Cloud+%26+ML+Engineer+☁️;Let's+Build+Something+Amazing!+🚀"/>
+<!-- Minimal Typing Effect -->
+<img width="500"
+     src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=800&color=72EFDD&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Tejas+Yadav;Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+Developer;Let's+Build+Great+Things!"/>
+
 
   <!-- Social Links -->
   <div>
